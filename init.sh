@@ -11,7 +11,7 @@ PROJECT="${MAINDIR}/${DATE}_${NAME}"
 printf "Set up new project structure for $PROJECT\n\n"
 
 ## Folder structure
-INPUTDIR="${PROJECT}/in"
+INPUTDIR="${PROJECT}/data"
 SCRIPTDIR="${PROJECT}/code"
 ANALYSESDIR="${PROJECT}/analyses"
 PLOTDIR="${PROJECT}/plot"
